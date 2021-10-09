@@ -77,6 +77,7 @@ Alles vor dem 05.10.2021 ist nur auf dem Discord zu finden.
 <br>MAN
 <br>Iveco
 </details>
+</details>
 
 <details>
 <summary>09.10.2021</summary>
